@@ -1,0 +1,7 @@
+class UDP_StringLength_Client 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}
